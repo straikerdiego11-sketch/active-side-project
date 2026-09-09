@@ -1,2 +1,6 @@
 # active-side-project
-Side project I'm still building
+
+**Status: Active development**
+
+Side project currently under active development. New features weekly.
+Please leave alone.
